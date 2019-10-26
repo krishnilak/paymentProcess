@@ -1,4 +1,4 @@
-# paymentProcess
+# PaymentProcess
 
 This setup demonstrates 
 - Message routing capabilities of WSO2 Enterprise Integrator. 
@@ -46,4 +46,4 @@ Now your APIs are ready for use. You can see API information from there
 
 
 # Setup
-![alt text](https://github.com/krishnilak/getPayments/blob/master/2.png)
+![alt text](https://github.com/krishnilak/paymentProcess/blob/master/1.png)
